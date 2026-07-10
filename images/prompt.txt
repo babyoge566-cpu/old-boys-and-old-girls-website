@@ -1,0 +1,7 @@
+first prompt
+Hi chatGPT, i am new to web development, please help me generate a 6 pages "old boys/old girls school site" full wwebsite using html nd tailwind css only.
+
+second prompt 
+give the website  a name and logo, give it a menu bar drop down items linking the user to the different pages of the website.
+
+give it hero section and make the menu and footer sticky
